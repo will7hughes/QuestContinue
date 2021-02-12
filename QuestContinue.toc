@@ -1,0 +1,16 @@
+## Interface: 90001
+## Version: v1.0.0
+## Title: QuestContinue
+## Author: Will Hughes
+## SavedVariables: QuestContinueDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## X-WoWI-ID: 19479
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+
+Locales.lua
+QuestContinue.lua
