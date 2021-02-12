@@ -1,2 +1,2 @@
 # QuestContinue
-[logo.png]
+![Logo](logo.png)
